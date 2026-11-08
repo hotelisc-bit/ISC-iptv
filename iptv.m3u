@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Test",ช่องทดสอบ
+https://example.com/stream.m3u8
